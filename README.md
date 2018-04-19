@@ -16,4 +16,4 @@ And you can check whether it is outdated by
     AESenc.isTokenOutDated(token, "secretKey");
   
 
-The secret key for AES and hasing is separated.
+The secret keys for AES and hasing are different.
